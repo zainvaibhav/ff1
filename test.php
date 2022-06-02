@@ -1,4 +1,4 @@
 <?php
-echo "simple test";
+echo "simple test branch";
 
 ?>
